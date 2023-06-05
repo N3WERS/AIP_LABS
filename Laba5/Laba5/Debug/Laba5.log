@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\space\source\repos\Laba5\Laba5\MyForm.h(19,24): warning C4677: sysSelect: сигнатура члена, не являющегося частным, содержит частный тип сборки "SysSelect"
+C:\Users\space\source\repos\Laba5\Laba5\SysSelect.h(6): message : см. объявление "SysSelect"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba5.vcxproj -> C:\Users\space\source\repos\Laba5\Debug\Laba5.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\space\source\repos\OPZ\OPZ\main.c(13,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\space\source\repos\OPZ\OPZ\main.c(125): warning C4715: prior: значение возвращается не при всех путях выполнения
+  OPZ.vcxproj -> C:\Users\space\source\repos\OPZ\x64\Debug\OPZ.exe

@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\space\source\repos\OPZ\OPZ\main.c(17,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\space\source\repos\OPZ\OPZ\main.c(27,28): warning C4047: ==: "int" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\space\source\repos\OPZ\OPZ\main.c(33,28): warning C4047: ==: "int" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\space\source\repos\OPZ\OPZ\main.c(35,39): warning C4047: !=: "int" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\space\source\repos\OPZ\OPZ\main.c(39,34): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\space\source\repos\OPZ\OPZ\main.c(107): warning C4715: prior: значение возвращается не при всех путях выполнения
+  OPZ.vcxproj -> C:\Users\space\source\repos\OPZ\Debug\OPZ.exe

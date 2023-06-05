@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\space\source\repos\ListC_Lab3\ListC_Lab3\main.c(138,26): warning C4013: list_length: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\space\source\repos\ListC_Lab3\ListC_Lab3\main.c(21): warning C4716: create_item_list: должна возвращать значение
+  ListC_Lab3.vcxproj -> C:\Users\space\source\repos\ListC_Lab3\Debug\ListC_Lab3.exe
